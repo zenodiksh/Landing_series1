@@ -14,9 +14,6 @@ i have used the image addresses from unsplash only ,the favorite of many devs no
 
 #attachment
 i am attaching an image of the page looks like for reference
-
-# My Project
-
-Here is a screenshot of the app in action:
+# YOU MAY FIND IT UNDER assets/scrrenshots
 
 
